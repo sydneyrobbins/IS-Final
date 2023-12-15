@@ -1,0 +1,43 @@
+.mybody{
+    background-color: rgb(250, 211, 206);
+    /* background-color: rgb(255, 195, 187) */
+}
+.myimg{
+    display: block;
+    border: solid black 3px;
+    padding: 3px;
+    margin: auto;
+    width: 25%;
+}
+.container{
+    display: inline !important; 
+}
+.myh1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(17, 102, 102);
+    text-align: center;
+}
+.common{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(17, 102, 102);
+    text-align: center;
+    font-size: large;
+    /* font-weight: bold; */
+}
+.aboutme{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(17, 102, 102);
+    text-align: center;
+    font-size: x-large;
+    /* font-weight: bold; */
+}
+.barcolor{
+    background-color: rgb(250, 211, 206) !important;
+}
+.color{
+    color: rgb(250, 211, 206) !important;
+}
+.left{
+    text-align: left !important;
+}
+.myh2{color: rgb(17, 102, 102);}
